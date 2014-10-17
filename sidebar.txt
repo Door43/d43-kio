@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kio:home|Door43 (kio)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kio|d43-kio repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kio/archive/master.zip|d43-kio.zip]]
+
+**Recent Changes**
+{{changes>ns = kio}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kio|Ethnologue data]]
+
